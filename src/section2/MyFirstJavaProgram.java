@@ -48,6 +48,7 @@ public class MyFirstJavaProgram {
 	r2d2.turn(270);
 	r2d2.setPenColor(Color.MAGENTA);
 	r2d2.move(50);
+	r2d2.
 	}
 }
 
